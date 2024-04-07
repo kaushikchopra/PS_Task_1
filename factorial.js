@@ -13,7 +13,8 @@ function factorial(n) {
     return result;
 }
 
-// Example usage:
+// Time Complexity: O(n); Space Complexity: O(1)
+
 console.log(factorial(1)); // 1
 console.log(factorial(2)); // 2
 console.log(factorial(3)); // 6
